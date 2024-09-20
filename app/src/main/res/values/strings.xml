@@ -2,4 +2,31 @@
     <string name="app_name">spu221</string>
     <string name="main_title">Основы Android</string>
     <string name="main_calc_btn">Калькулятор</string>
+    
+    <string name="calc_title">Калькулятор</string>
+
+    <string name="calc_btn_percent">%</string>
+    <string name="calc_btn_CE">CE</string>
+    <string name="calc_btn_C">C</string>
+    <string name="calc_btn_back">\u232B</string>
+    <string name="calc_btn_plus">\u002B</string>
+    <string name="calc_btn_difference">\u2212</string>
+    <string name="calc_btn_multiply">\u00D7</string>
+    <string name="calc_btn_divide">\u00F7</string>
+    <string name="calc_btn_1_x">\u215Fx</string>
+    <string name="calc_btn_pow">x\u00B2</string>
+    <string name="calc_btn_square_root">\u221Ax</string>
+    <string name="calc_btn_equals">\u003D</string>
+    <string name="calc_btn_plus_minus">\u00B1</string>
+    <string name="calc_btn_coma">,</string>
+    <string name="calc_btn_1"><b>1</b></string>
+    <string name="calc_btn_2"><b>2</b></string>
+    <string name="calc_btn_3"><b>3</b></string>
+    <string name="calc_btn_4"><b>4</b></string>
+    <string name="calc_btn_5"><b>5</b></string>
+    <string name="calc_btn_6"><b>6</b></string>
+    <string name="calc_btn_7"><b>7</b></string>
+    <string name="calc_btn_8"><b>8</b></string>
+    <string name="calc_btn_9"><b>9</b></string>
+    <string name="calc_btn_0"><b>0</b></string>
 </resources>

@@ -6,4 +6,11 @@
     <color name="main_title">#B19807</color>
     <color name="main_bg_btn">#054497</color>
     <color name="main_fg_btn">#F4DA9E</color>
+
+    <color name="calc_bg">#202020</color>
+    <color name="calc_digit_bg">#3B3B3B</color>
+    <color name="calc_action_bg">#323232</color>
+    <color name="calc_equal_bg">#4CC1FE</color>
+    <color name="calc_history_fg">#929292</color>
+    <color name="calc_result_fg">#FEFEFE</color>
 </resources>

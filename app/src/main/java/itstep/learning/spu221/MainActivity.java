@@ -31,10 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void onCalcClick(View view){
         //Toast.makeText(this, "onCalcClick", Toast.LENGTH_SHORT).show();
-        Intent activityIntdent = new Intent(
-                getApplicationContext(),
-                CalcActivity.class
-        );
-        startActivity(activityIntdent);
+        Intent activityIntent = new Intent(getApplicationContext(), CalcActivity.class);
+        startActivity(activityIntent);
     }
 }
