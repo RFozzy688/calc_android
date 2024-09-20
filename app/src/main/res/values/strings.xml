@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">spu221</string>
+    <string name="main_title">Основы Android</string>
+    <string name="main_calc_btn">Калькулятор</string>
+</resources>
